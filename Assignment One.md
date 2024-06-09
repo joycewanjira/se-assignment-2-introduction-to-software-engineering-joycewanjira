@@ -127,10 +127,20 @@ Discuss the role of a software project manager. What are some key responsibiliti
 Software Maintenance: Planning, executing and delivery and oversee the software projects.
 Some of the challenges are Frequent change in technology so keeping up may be a challenge, the other is time,scope amd financial limitations and the other would be complexity of projects to be able to meet clients needs 
 
-Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
-Ethical Considerations in Software Engineering:
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle? Maintainance is providing ongoing support, updates and enhancements to the software after deployment  
+The importance of maintainance in Software engineering include
+1. Extending software life 
+2. Keeping the software up to date and improve performance of the software 
+3. Useful in bug fixing and correcting errors 
+4. Ensures security enhancements to the software 
+
+Ethical Considerations in Software Engineering: ensuring that technology is developed and used in ways that benefit society, respect individual rights, and promote fairness, transparency, and accountability. By integrating ethical principles into all stages of software development, from design and implementation to deployment and maintenance, software engineers can contribute to the creation of technology that serves the greater good and enhances human well-being
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+1.  Intellectual property- respecting and protection of intellectual propert rights 
+2.  Ensure user privacy and data protection for example avoid using personal identifiers such as names and other sensitive information 
+3.  Mitigating biases and discrimination such those by gender,skin color, race, tribe 
+4. Enhance social responsibility by engaging relevant stakeholder before, after and during the development of a software 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
